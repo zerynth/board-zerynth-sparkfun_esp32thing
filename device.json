@@ -23,6 +23,7 @@
     "virtualizable":"SparkfunEsp32Thing",
     "has_alter_ego":false,
     "uplink_reset": "reset",
+    "flash_erasable": true,
     "reset_time": 4000,
     "rodata_in_ram":true,
     "connection":{

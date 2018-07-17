@@ -13,7 +13,7 @@ The Esp32 Thing device is one of the development board created by Sparkfun to ev
 Pin Mapping
 ***********
 
-.. figure:: /custom/img/sparkfun_esp32_thing_pin_comm.png
+.. figure:: /custom/img/sparkfun_esp32_thing_pin_comm.jpg
    :align: center
    :figwidth: 100% 
    :alt: Sparkfun ESP32 Thing
