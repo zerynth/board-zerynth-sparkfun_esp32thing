@@ -1,0 +1,15 @@
+---
+description: Add support for Sparkfun ESP32 Thing
+fullname: board.zerynth.sparkfun_esp32thing
+info:
+    board: Sparkfun ESP32 Thing
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- espressif
+- esp32
+- board
+- sparkfun
+title: Sparkfun ESP32 Thing Support Package
+...
